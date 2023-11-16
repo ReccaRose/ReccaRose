@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello there World 👋
 
-<!--
-**ReccaRose/ReccaRose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+###This project is my first demo using GitHub. 
 
 - 🔭 I’m currently working on finishing up training to be a software programmer.
 - 🌱 I’m currently learning about GitHub today.
