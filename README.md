@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with strengthening my skills.
 - 📫 How to reach me: beckyrosemiller@gmail.com
 - 😄 Pronouns: She/Her
--->
+-    That's about it!
