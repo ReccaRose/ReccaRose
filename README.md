@@ -1,10 +1,10 @@
 ### Hello there World 👋
 
-###This project is my first demo using GitHub. 
+###This is me getting used to using GitHub. 
 
 - 🔭 I’m currently working on finishing up training to be a software programmer.
-- 🌱 I’m currently learning about Git, GitHub and GitKraken.
-- 🤔 I’m looking for help with strengthening my skills.
+- 🌱 I’m currently learning about Unit Testing.
+- 🤔 I’m looking for help with strengthening computer logic and my skills.
 - 📫 How to reach me: beckyrosemiller@gmail.com
 - 😄 Pronouns: She/Her
--    That's about it!
+-    Dont forget to be grateful for today!
